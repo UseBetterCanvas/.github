@@ -1,3 +1,1 @@
-## Hi there 👋
-
-Feature packed extension for Canvas.
+##Feature packed extension for Canvas.
